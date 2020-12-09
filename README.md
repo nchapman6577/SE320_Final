@@ -15,6 +15,8 @@ public static <E extends Comparable<E>>
 int linearSearch(E[] list, E key)
 You can use the following code skeleton for the implementation and testing of your
 code.
+
+
 public class Question3 {
  public static <E extends Comparable<E>> int linearSearch(E[] list, E
 key) {
